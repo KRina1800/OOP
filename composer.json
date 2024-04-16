@@ -1,0 +1,7 @@
+{
+    "require": {
+        "psr/log": "2.0.0",
+        "fakerphp/faker": "^1.23",
+        "twig/twig": "^3.0"
+    }
+}
